@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="{% static "myfirst.css" %}">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1> this is master file</h1>
+
+{% block user %}
+<h2> we are inside master block</h2>
+<img src="{% static "pic.jpg" %}" width="300" height="300">
+{% endblock %}
+
+<p1> thanks </p1>
+</body>
+</html>
