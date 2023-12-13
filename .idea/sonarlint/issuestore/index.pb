@@ -27,3 +27,11 @@ J
 blog/templates/master.html,4/7/4725fe017867ed39f867d831aea9f83c363a9918
 G
 blog/static/myfirst.css,d/2/d2db8ab605a4380b328f6d9c1262604c8653f081
+<
+blog/apps.py,5/1/51955899fc35f65c8f4e3a7b417395ce65636ebd
+O
+blog/migrations/0002_student.py,2/8/28da944cbf0417ce397a53934d725f711364b0bb
+L
+blog/templates/register.html,e/1/e1f4edefeff3068be6cbdfbc5e71b836f5f73e85
+<
+blog/form.py,1/e/1e8cc2400a8fba6598ccea5e1d46adfbd91aa11d

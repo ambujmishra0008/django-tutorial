@@ -11,7 +11,7 @@ def validate_author(obj):
 
 
 class AuthorAdmin(admin.ModelAdmin):
-    list_display = ('id','name','address', 'dob', 'country')
+    list_display = ('id','name','address', 'dob', 'country', 'status')
     list_filter = ('status','country')
     readonly_fields = ("country",)
 
